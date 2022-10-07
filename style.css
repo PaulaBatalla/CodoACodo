@@ -1,0 +1,86 @@
+.back-image {
+    background-image: url("./assets/media/ba1.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgb(138, 136, 136);
+}
+
+h1 {
+    color: white;
+    font-size: 200%;
+    text-align: right;
+    text-justify: right;
+    line-height: 80px;
+    
+}
+
+.pwhite {
+    color: white;
+    text-align: justify;
+    text-justify: right;
+    line-height: 20px;
+}
+
+.p1 {
+    text-align: center;
+    line-height: 40px;
+    font-size: 120%;
+    line-height: 20px;
+    color: black;
+}
+
+.p2 {
+    text-align: center;
+    line-height: 40px;
+    font-size: 170%;
+    line-height: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.p3 {
+    color: black;
+    text-align: left;
+    font-size: 130%;
+    font-weight: bold;
+}
+
+.p4 {
+    color: black;
+    text-align: justify;
+    line-height: 20px;
+}
+
+h2 {
+    text-align: left;
+    color: white;
+    font-size: 140%;
+}
+
+.p5 {
+    text-align: justify;
+    color: white;
+}
+
+.background {
+    background-color: dimgrey;
+}
+
+.btn1 {
+    float: left;
+}
+
+.p6 {
+    color: black;
+    text-align: center;
+}
+
+.footer {
+    color: white;
+    align-items: center;
+}
+
+.centrar {
+    margin: 0 auto;
+}
