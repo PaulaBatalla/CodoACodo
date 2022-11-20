@@ -76,6 +76,26 @@ h2 {
     text-align: center;
 }
 
+.p7 {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.p9 {
+    font-weight: bold;
+}
+
+.p10 {
+    color:dimgrey;
+}
+
+.p11 {
+    text-align: left;
+}
+
+
+
+
 .footer {
     color: white;
     align-items: center;
